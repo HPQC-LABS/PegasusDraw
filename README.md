@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/160449657.svg)](https://zenodo.org/badge/latestdoi/160449657)
+[![DOI](https://zenodo.org/badge/160449656.svg)](https://zenodo.org/badge/latestdoi/160449656)
 
 **PegasusDraw** (2018) Szilard Szalay, Nike Dattani, Nicholas Chancellor.
 
